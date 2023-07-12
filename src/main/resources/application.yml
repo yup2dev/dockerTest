@@ -1,9 +1,3 @@
-server:
-  port: 8082
-
 spring:
   profiles:
-    active: main
----
-spring:
-  profiles: main
+    active: dev
